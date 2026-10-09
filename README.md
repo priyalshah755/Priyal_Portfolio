@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Priyal Shah — Full-stack Portfolio
 
 A responsive dark-green portfolio built with **Node.js, Express, EJS, CSS and MongoDB**.
@@ -75,3 +76,6 @@ priyal_portfolio/
 - The homepage works even if MongoDB is not connected, but the contact form will not save messages until the database is connected.
 - This starter project intentionally has no admin dashboard or authentication. Add secure authentication and authorization before adding private admin features.
 - The GitHub links and contact email are placeholders; update them before publishing.
+=======
+# Priyal_Portfolio
+>>>>>>> 1137ea4515bff50d0140785c3528abcf668128b5
